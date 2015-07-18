@@ -1,0 +1,25 @@
+{
+  "name": "rcall",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js",
+    "dev": "hihat test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderGugel/rcall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderGugel/rcall/issues"
+  },
+  "homepage": "https://github.com/alexanderGugel/rcall#readme",
+  "devDependencies": {
+    "hihat": "^1.2.1",
+    "standard": "^4.5.4",
+    "tape": "^4.0.0"
+  }
+}
